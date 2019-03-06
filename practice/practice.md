@@ -6,3 +6,5 @@
     * but not all birds fly
 
 # Proverbs by Chris..
+
+How do we fix merge conflicts?

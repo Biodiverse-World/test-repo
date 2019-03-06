@@ -4,3 +4,5 @@
     * Monkeys have tails...
 * All birds lay eggs
     * but not all birds fly
+
+# Proverbs by Chris..

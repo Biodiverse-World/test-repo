@@ -12,3 +12,5 @@ How do we fix merge conflicts?
 
 ---
 Testing [Creating a commit on behalf of an organization](https://help.github.com/en/articles/creating-a-commit-on-behalf-of-an-organization)
+
+Testing verified domain format for email used.
